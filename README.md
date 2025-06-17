@@ -68,4 +68,4 @@ Hi, I'm **Gülsarə Mirzəyeva** — passionate about learning data science step
 This is one of my early projects applying regression from scratch using Python.
 
 📫 [LinkedIn Profile](https://www.linkedin.com/in/gulsara-mirzayeva-298a3b359/)  
-📧 Email: mirzayeva.gulsare@gmail.com
+📧 Email: mirzayevagulsare@gmail.com
